@@ -4,6 +4,7 @@
        <head>
              <meta charset=”utf-8”>
              <title> Git Test Page </title>
+             
              <link rel="stylesheet" type="text/css" href="style.css" />
        </head>
 
@@ -12,7 +13,6 @@
              Yafei Guo
 			 The class is fun
 			 The assignment is fun
-			 The professor is kind
-			 body { background: pink; }
+			 The professor is kind`
        </body>
 </html>
